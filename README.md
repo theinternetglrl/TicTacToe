@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe in Java (Pre-OOP Version)
+#  Tic Tac Toe in Java (Pre-OOP Version)
 
 This is a simple **command-line Tic Tac Toe game** built using Java, **before learning Object-Oriented Programming (OOP)** concepts.
 
@@ -6,7 +6,7 @@ It uses basic logic, loops, and arrays to simulate a two-player Tic Tac Toe game
 
 ---
 
-## ✨ Features
+##  Features
 
 - Two-player game (X and O)
 - Board display after every move
@@ -15,7 +15,7 @@ It uses basic logic, loops, and arrays to simulate a two-player Tic Tac Toe game
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - Language: Java
 - IDE: (e.g. IntelliJ / Eclipse / VS Code)
